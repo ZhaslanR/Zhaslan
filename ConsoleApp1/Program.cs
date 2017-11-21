@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Console.BackgroundColor = ConsoleColor.Green;
             Console.CursorSize = 100;
             Console.ForegroundColor = ConsoleColor.Black;
-            Console.WriteLine("Привет урод");
+            Console.WriteLine("Привет");
             Console.ReadLine();
 
         }
